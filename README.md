@@ -15,3 +15,4 @@
 変更をテストします（test13-adds）
 
 変更をテストします（readme-edits1）
+変更をテストします（readme-edits2）
